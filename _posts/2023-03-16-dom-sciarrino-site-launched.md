@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dom Sciarrino, Pizza Guy, Launches Site"
+title: "Dom Launches Site"
 date: 2023-03-16
 ---
 
